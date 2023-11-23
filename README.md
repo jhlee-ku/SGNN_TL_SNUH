@@ -8,3 +8,5 @@ Please cite this work as follows:
 
 
 **Belows are the description of each jupyter notebook**
+0_Mplus.ipynb
+- This is code for preprocessing CBCL raw data (119 columns) to MPlus input for factor score calculations
