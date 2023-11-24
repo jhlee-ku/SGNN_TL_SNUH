@@ -46,3 +46,6 @@ def get_fs_score(datapath=None,num_factors=None):
         assert len(fs_float) == len(result)
         result_df[fac+1] = fs_float
     return result_df
+    
+def test_func():
+    return
