@@ -6,7 +6,3 @@ Please cite this work as follows:
 
   - Hwang, J., ... (temporary)
 
-
-**Belows are the description of each jupyter notebook**
-
-- (temporary)
